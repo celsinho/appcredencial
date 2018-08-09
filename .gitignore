@@ -1,9 +1,7 @@
 /node_modules
 /public/hot
 /public/storage
-/public/fotos/AD
-/public/fotos/CO
-/public/fotos/EC
+/public/fotos
 /storage/*.key
 /vendor
 /.idea
