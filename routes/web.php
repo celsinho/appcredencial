@@ -17,8 +17,4 @@ Route::get('/', function () {
 
 Route::resource('estudiantes','EstudianteController');
 
-Route::apiResource('api/estudiantes','EstudianteControllerApi',[
-    'as' => 'api'
-]);
-
 //Route::name('print')->get('/imprimir', 'GeneradorController@imprimir');
